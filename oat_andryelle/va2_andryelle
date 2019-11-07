@@ -1,0 +1,15 @@
+
+
+1 -  Dividido em três partes: Header (Cabeçalho), Menu e o Main (Contenter).
+
+
+2 - Div, Inputs, Label e Button.
+
+
+3 - text-aligh: center;
+
+
+4 - É uma tecnologia que nos permite criar layouts baseados em grids de uma forma rápida, padrão e fácil, ela está presente na maioria dos navegadores modernos.
+
+
+5 -  Media Queries é a utilização de Media Types com uma ou mais expressões envolvendo características de uma media para definir formatações para diversos dispositivos. Eu utilizei para meu site ser responsivo @media screen and (min-width: 700px) e @media screen and (min-width: 1200px).
